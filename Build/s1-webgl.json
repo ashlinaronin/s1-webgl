@@ -1,0 +1,16 @@
+{
+"companyName": "ashlin aronin",
+"productName": "distancing",
+"productVersion": "0.1",
+"dataUrl": "s1-webgl.data.unityweb",
+"wasmCodeUrl": "s1-webgl.wasm",
+"wasmFrameworkUrl": "s1-webgl.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.5f1"
+}
